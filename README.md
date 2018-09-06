@@ -1,7 +1,7 @@
 ## 欢迎加入管辩大家庭！
 
 
-### recent update
+### recent updates
 
 
 
