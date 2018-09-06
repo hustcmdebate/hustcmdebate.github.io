@@ -51,6 +51,21 @@
 | 二面时间     | 待定 |
 | 二面结果公布 | 待定 |
 
+| Day | Date      | Instructor | Topic |
+|:---:|:----------|:-----------|:------|
+| 1  | Mo 30 Jul | KB, SM     | [Overview and introduction to data science](#1-overview-and-introduction-to-data-science) |
+| 2  | Tu 31 Jul | KB         | [The Shape of Data](#2-the-shape-of-data) |
+| 3  | We 1 Aug  | KB         | [Working with Databases](#3-working-with-databases) |
+| 4  | Th 2 Aug  | KB         | [Linear Regression](#4-linear-regression) |
+| 5  | Mo 6 Aug  | SM         | [Classification](#5-classification) |
+| 6  | Tu 7 Aug  | SM         | [Resampling methods, model selection and regularization](#6-resampling-methods-model-selection-and-regularization) |
+| 7  | We 8 Aug  | SM         | [Non-linear models and tree-based methods](#7-non-linear-models-and-tree-based-methods) |
+| 8  | Th 9 Aug  | KB         | [Unsupervised learning and dimensional reduction](#8-unsupervised-learning-and-dimensional-reduction) |
+| 9  | Mo 13 Aug | JB         | [Text analysis](#9-text-analysis) |
+| 10 | Tu 14 Aug | JB         | [Topic modelling](#10-topic-modelling) |
+| 11 | We 15 Aug | JB         | [Data from the Web](#11-data-from-the-web) |
+| 12 | Th 16 Aug | KB         | [Network Analysis](#12-network-analysis) |
+| 13 | Fr 17 Aug |            | [Final Exam](#assessment) |
 
 ### 报名
  本次报名的截止时间是**2018/9/10 23：00 PM**，届时所有报名通道将会关闭。
