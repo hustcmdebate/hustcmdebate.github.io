@@ -1,15 +1,26 @@
-## Welcome to GitHub Pages
+## 欢迎加入管理学院辩论队！
 
-You can use the [editor on GitHub](https://github.com/hustcmdebate/hustcmdebate.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### 简介
+恶历经千年涤荡
+为何万恶金钱使人变得迷惘
+为何城市猫狗到处肆意流浪
+为何偶像崇拜开始成为信仰
+为何死刑废止牵扯家国安康
+为何犬儒佛系滋生蔓延茁壮
+为何共享经济看似发展兴旺
+为何大众舆论将同司法碰撞
+为何公权力对隐私了如指掌
+这都是辩题
+政治经济哲学法律
+敢怒敢言趁年少轻狂
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**亲爱的管院小萌新们：**
+        如果你想**学习辩论**，就加入我们吧，这里有各路辩论大神手把手帮你解锁各种技能。
+        如果你想**参加比赛**，就加入我们吧，新生杯柠檬杯东西交流赛喻晓之巅一个都不差。
+        如果你想**交群朋友**，就加入我们吧，友谊在比赛中可以飞速提升同时可以撩汉撩妹。
+        如果你想**提升自我**，就加入我们吧，启明雅思托福出国创业保研四大省赛统统给你。
+        如果你想**追求真理**，就加入我们吧，有什么比思辨本身更能让人接近事实与真相呢！
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
@@ -25,13 +36,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hustcmdebate/hustcmdebate.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
