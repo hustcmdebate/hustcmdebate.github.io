@@ -82,9 +82,9 @@
 
 ### 第一次面试
 
-- [一面信息、赛制及说明](https://github.com/404) _（暂未发布）_
+- [一面信息、赛制及说明](https://github.com/404) _(暂未发布)_
 
-- [分组情况](https://hustcmdebate.github.io/group) _（暂未发布）_
+- [分组情况](https://hustcmdebate.github.io/group) _(暂未发布)_
 
 - [一面通过名单](https://hustcmdebate.github.io/PassList) _(暂未发布)_
 
