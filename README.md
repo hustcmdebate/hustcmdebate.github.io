@@ -82,11 +82,11 @@
 
 ### 第一次面试
 
-- [一面信息、赛制及说明](https://github.com/hustcmdebate/hustcmdebate.github.io/分组表格.pdf) _（暂未发布）_
+- [一面信息、赛制及说明](https://github.com/404) _（暂未发布）_
 
-- [分组表格 as PDF](https://github.com/hustcmdebate/hustcmdebate.github.io/分组表格.pdf) _（暂未发布）_
+- [分组表格 as PDF](https://github.com/404) _（暂未发布）_
 
-- [通过名单 as PDF](https://github.com/hustcmdebate/hustcmdebate.github.io/通过名单.pdf) _（暂未发布）_
+- [通过名单 as PDF](https://github.com/404) _（暂未发布）_
 
 ***
 
