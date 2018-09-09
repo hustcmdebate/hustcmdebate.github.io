@@ -84,7 +84,7 @@
 
 - [一面信息、赛制及说明](https://github.com/404) _（暂未发布）_
 
-- [分组情况 as HTML](https://github.com/404) _（暂未发布）_
+- [分组情况 as HTML](https://hustcmdebate.github.io/group) _（暂未发布）_
 
 
 ***
@@ -92,7 +92,7 @@
 
 - [二面信息、赛制及说明](https://github.com/404) _(暂未发布)_
 
-- [分组情况 as HTML](https://github.com/404) _(暂未发布)_
+- [分组情况 as HTML](https://hustcmdebate.github.io/group) _(暂未发布)_
 
 ***
 
