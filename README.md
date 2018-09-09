@@ -86,7 +86,7 @@
 
 - [分组表格 as PDF](https://github.com/404) _（暂未发布）_
 
-- [通过名单 as PDF](https://github.com/404) _（暂未发布）_
+- [通过名单 as HTML](https://hustcmdebate.github.io/PassList) _（暂未发布）_
 
 ***
 
