@@ -19,7 +19,7 @@
 | 5  | [一面结果公布](https://hustcmdebate.github.io/PassList/)  | 待定         |      |
 | 6  | 二面信息发布  | 待定        |       |
 | 7  | 第二次面试  | 待定         |       |
-| 8  | 二面结果公布  | 待定         |       |
+| 8  | [二面结果公布](https://hustcmdebate.github.io/PassList/)  | 待定         |       |
 
 
 
