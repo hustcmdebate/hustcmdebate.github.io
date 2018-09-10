@@ -4,7 +4,8 @@
 
 
 ### Important Updates
-- _<9/11 0:01AM>_  **已上传一面赛制及说明**
+
+- _<9/10 17:36PM>_  **已上传一面赛制及说明**
 
 - _<9/8 22:00PM>_  **报名截止时间推迟至11日中午**
 
@@ -84,9 +85,13 @@
 
 ### 第一次面试
 
+- **时间 ： 9月15日（星期六）下午。具体面试时间详见【分组情况】。**
+
+- **地点 ： 东十二309教室**
+
 - [一面信息、赛制及说明](https://hustcmdebate.github.io/theFirstInterview)
 
-- [分组情况](https://hustcmdebate.github.io/group)
+- [分组情况](https://hustcmdebate.github.io/group) _(暂未发布)_
 
 - [一面通过名单](https://hustcmdebate.github.io/PassList) _(暂未发布)_
 
