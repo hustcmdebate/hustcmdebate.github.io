@@ -91,6 +91,7 @@
 
 - [一面信息、赛制及说明](https://hustcmdebate.github.io/theFirstInterview)
 
+- [分组情况](https://hustcmdebate.github.io/group)
 
 ***
 ### 第二次面试
