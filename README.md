@@ -114,7 +114,7 @@
 
 - [这个世界是一出悲剧/喜剧（2017华辩老友赛-马来亚大学VS武汉大学)](https://www.bilibili.com/video/av11521245/?p=12)
 
-- [德国右翼政治势力崛起是/不是向右转的体现（2018新国辩-马来亚大学VS墨尔本大学)](https://v.youku.com/v_show/id_XMzE5MzE2OTE1Mg==.html)
+- [德国右政治势力崛起是/不是向右转的体现（2018新国辩-马来亚大学VS墨尔本大学)](https://v.youku.com/v_show/id_XMzE5MzE2OTE1Mg==.html)
 
 
 ***
