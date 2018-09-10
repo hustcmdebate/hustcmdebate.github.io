@@ -89,14 +89,14 @@
 
 - **地点 ： 东十二309教室**
 
-- [一面信息、赛制及说明](https://hustcmdebate.github.io/theFirstInterview)
+- [一面赛制及说明](https://hustcmdebate.github.io/theFirstInterview)
 
 - [分组情况](https://hustcmdebate.github.io/group)
 
 ***
 ### 第二次面试
 
-- [二面信息、赛制及说明](https://github.com/404) _(暂未发布)_
+- [二面赛制及说明](https://github.com/404) _(暂未发布)_
 
 
 ***
