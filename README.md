@@ -16,7 +16,7 @@
 | Issue | Topic       | Date | Status |
 |:---:|:----------:|:------------:|:---------:|
 | 1  | [报名](#报名) | 9月11日 中午 截止 | **进行中**    |
-| 2  | [一面信息发布](#第一次面试) |     9月11日     | **已发布**      |
+| 2  | [一面信息发布](#第一次面试) |     9月10日     | **已发布**      |
 | 3  | 第一次面试  | **9月15日**         |     |
 | 4  | 一面补面  | 待定         |       |
 | 5  | [一面结果公布](https://hustcmdebate.github.io/PassList/)  | 待定         |      |
@@ -91,18 +91,12 @@
 
 - [一面信息、赛制及说明](https://hustcmdebate.github.io/theFirstInterview)
 
-- [分组情况](https://hustcmdebate.github.io/group) _(暂未发布)_
-
-- [一面通过名单](https://hustcmdebate.github.io/PassList) _(暂未发布)_
 
 ***
 ### 第二次面试
 
 - [二面信息、赛制及说明](https://github.com/404) _(暂未发布)_
 
-- [分组情况](https://hustcmdebate.github.io/group) _(暂未发布)_
-
-- [二面通过名单](https://hustcmdebate.github.io/PassList) _(暂未发布)_
 
 ***
 
