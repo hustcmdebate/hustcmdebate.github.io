@@ -5,8 +5,12 @@
 
 ### Important Updates
 
+<<<<<<< HEAD
 
 - _<9/10 17:36PM>_  **已上传一面赛制及说明**
+=======
+- _<9/10 17:36PM>_  **已上传一面赛制及说明,分组将在报名信息统计结束后公布**
+>>>>>>> fd504cf93ef07b90b0849fdae55a7fe3f0bff13d
 
 - _<9/8 22:00PM>_  **报名截止时间推迟至11日中午**
 
@@ -17,8 +21,8 @@
 | Issue | Topic       | Date | Status |
 |:---:|:----------:|:------------:|:---------:|
 | 1  | [报名](#报名) | 9月11日 中午 截止 | **进行中**    |
-| 2  | [一面信息发布](#第一次面试) |     9月11日     | **已发布**      |
-| 3  | 第一次面试  | **9月15日**         |     |
+| 2  | [一面信息发布](#第一次面试) |     9月10日     | **已发布**      |
+| 3  | 第一次面试  | 9月15日        |     |
 | 4  | 一面补面  | 待定         |       |
 | 5  | [一面结果公布](https://hustcmdebate.github.io/PassList/)  | 待定         |      |
 | 6  | [二面信息发布](#第二次面试)  | 待定        |       |
@@ -90,20 +94,15 @@
 
 - **地点 ： 东十二309教室**
 
-- [一面信息、赛制及说明](https://hustcmdebate.github.io/theFirstInterview)
+- [一面赛制及说明](https://hustcmdebate.github.io/theFirstInterview)
 
-- [分组情况](https://hustcmdebate.github.io/group) _(暂未发布)_
-
-- [一面通过名单](https://hustcmdebate.github.io/PassList) _(暂未发布)_
+- [分组情况](https://hustcmdebate.github.io/group)
 
 ***
 ### 第二次面试
 
-- [二面信息、赛制及说明](https://github.com/404) _(暂未发布)_
+- [二面赛制及说明](https://github.com/404) _(暂未发布)_
 
-- [分组情况](https://hustcmdebate.github.io/group) _(暂未发布)_
-
-- [二面通过名单](https://hustcmdebate.github.io/PassList) _(暂未发布)_
 
 ***
 
