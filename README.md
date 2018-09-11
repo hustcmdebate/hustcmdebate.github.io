@@ -5,6 +5,8 @@
 
 ### Important Updates
 
+_<9/11 16:47PM>_ **已上传一面分组**
+
 _<9/11 9:00AM>_  **报名截止**
 
 _<9/10 17:36PM>_  **已上传一面赛制及说明，分组将在报名信息统计结束后公布。**
@@ -93,7 +95,7 @@ _<9/10 17:36PM>_  **已上传一面赛制及说明，分组将在报名信息统
 
 - [一面赛制及说明](https://hustcmdebate.github.io/theFirstInterview)
 
-- 分组情况
+- [分组情况](https://hustcmdebate.github.io/group)
 
 ***
 ### 第二次面试
