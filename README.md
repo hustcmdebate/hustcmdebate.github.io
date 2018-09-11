@@ -97,6 +97,8 @@ _<9/10 17:36PM>_  **已上传一面赛制及说明，分组将在报名信息统
 
 - [分组情况](https://hustcmdebate.github.io/group)
 
+- [一面通过名单](https://hustcmdebate.github.io/PassList) _(暂未发布)_
+
 ***
 ### 第二次面试
 
