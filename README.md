@@ -103,6 +103,9 @@ _<9/10 17:36PM>_  **已上传一面赛制及说明，分组将在报名信息统
 
 ### 第二次面试
 
+ - 时间
+
+ - 地点
 
  - [二面赛制及说明](https://hustcmdebate.github.io/theSecondInterview)
 
