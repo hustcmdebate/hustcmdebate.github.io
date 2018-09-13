@@ -98,16 +98,24 @@ _<9/10 17:36PM>_  **已上传一面赛制及说明，分组将在报名信息统
 
 - [分组情况](https://hustcmdebate.github.io/group)
 
-- [一面通过名单](https://hustcmdebate.github.io/PassList) _(暂未发布)_
+- [一面通过名单](https://hustcmdebate.github.io/PassList)
 
 ***
 
 ### 第二次面试
+
+ 
  - [二面赛制及说明](https://hustcmdebate.github.io/theSecondInterview) _(暂未发布)_
 
+ - 分组情况
+
+ - 二面通过名单
+
+ 
 ***
 
 ### 比赛视频推荐
+
 以下几个辩论赛视频是近几年较为有代表性的高水平赛事，大家可以通过这些视频对辩论有一个大致的概念。
 
 当然，我们不会要求各位达到视频中辩手的水平，因为这些都是长期训练的结果。放轻松～
