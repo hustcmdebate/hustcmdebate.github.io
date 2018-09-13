@@ -32,6 +32,37 @@ _<9/10 17:36PM>_  **已上传一面赛制及说明，分组将在报名信息统
 
 ***
 
+### 第一次面试
+
+- **时间 ： 9月15日（星期六）下午。具体面试时间详见【分组情况】。**
+
+- **地点 ： 东十二309教室**
+
+- [一面赛制及说明](https://hustcmdebate.github.io/theFirstInterview)
+
+- [分组情况](https://hustcmdebate.github.io/group)
+
+- [一面通过名单](https://hustcmdebate.github.io/PassList)
+
+***
+
+### 第二次面试
+
+
+ - **时间：** 待定
+
+ - **地点：** 待定
+
+ - [二面赛制及说明](https://hustcmdebate.github.io/theSecondInterview)
+
+ - 分组情况
+
+ - 二面通过名单
+
+
+***
+
+
 ### 概述
 
 
@@ -87,35 +118,7 @@ _<9/10 17:36PM>_  **已上传一面赛制及说明，分组将在报名信息统
 
 ***
 
-### 第一次面试
 
-- **时间 ： 9月15日（星期六）下午。具体面试时间详见【分组情况】。**
-
-- **地点 ： 东十二309教室**
-
-- [一面赛制及说明](https://hustcmdebate.github.io/theFirstInterview)
-
-- [分组情况](https://hustcmdebate.github.io/group)
-
-- [一面通过名单](https://hustcmdebate.github.io/PassList)
-
-***
-
-### 第二次面试
-
-
- - **时间：** 待定
-
- - **地点：** 待定
-
- - [二面赛制及说明](https://hustcmdebate.github.io/theSecondInterview)
-
- - 分组情况
-
- - 二面通过名单
-
-
-***
 
 ### 比赛视频推荐
 
