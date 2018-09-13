@@ -104,14 +104,14 @@ _<9/10 17:36PM>_  **已上传一面赛制及说明，分组将在报名信息统
 
 ### 第二次面试
 
- 
- - [二面赛制及说明](https://hustcmdebate.github.io/theSecondInterview) _(暂未发布)_
+
+ - [二面赛制及说明](https://hustcmdebate.github.io/theSecondInterview)
 
  - 分组情况
 
  - 二面通过名单
 
- 
+
 ***
 
 ### 比赛视频推荐
