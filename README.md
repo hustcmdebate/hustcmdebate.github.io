@@ -97,7 +97,7 @@ _<9/10 17:36PM>_  **已上传一面赛制及说明，分组将在报名信息统
 
 - [一面赛制及说明](https://hustcmdebate.github.io/theFirstInterview)
 
-- [分组情况](https://hustcmdebate.github.io/group)
+- 分组情况
 
 - [一面通过名单](https://hustcmdebate.github.io/PassList)
 
@@ -113,7 +113,7 @@ _<9/10 17:36PM>_  **已上传一面赛制及说明，分组将在报名信息统
 
  - [二面赛制及说明](https://hustcmdebate.github.io/theSecondInterview)
 
- - 辩题、分组及时间安排
+ - [辩题、分组及时间安排](https://hustcmdebate.github.io/group)
 
  - 二面通过名单
 
