@@ -1,6 +1,6 @@
 ## 欢迎加入管辩大家庭！
 
-- [18级新队员名单](https://hustcmdebate.girhub.io/PassList)
+- [18级新队员名单](https://hustcmdebate.github.io/PassList)
 
 
 ### Important Updates
