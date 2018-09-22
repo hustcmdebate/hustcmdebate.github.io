@@ -102,7 +102,7 @@ _<9/10 17:36PM>_  **已上传一面赛制及说明，分组将在报名信息统
 
 - **地点 ： 东十二309教室**
 
-- [一面赛制及说明](https://hustcmdebate.github.io/theFirstInterview)
+- 一面赛制及说明
 
 - 分组情况
 
