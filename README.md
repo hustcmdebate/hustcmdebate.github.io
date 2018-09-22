@@ -1,6 +1,6 @@
 ## 欢迎加入管辩大家庭！
 
-
+- [18级新队员名单](https://hustcmdebate.girhub.io/PassList)
 
 
 ### Important Updates
@@ -106,7 +106,7 @@ _<9/10 17:36PM>_  **已上传一面赛制及说明，分组将在报名信息统
 
 - 分组情况
 
-- [一面通过名单](https://hustcmdebate.github.io/PassList)
+- 一面通过名单
 
 ***
 
@@ -121,8 +121,6 @@ _<9/10 17:36PM>_  **已上传一面赛制及说明，分组将在报名信息统
  - [辩题、分组及时间地点安排](https://hustcmdebate.github.io/group)
 
  - [二轮面试公告 as PDF](hustcmdebate.github.io/二轮面试公告.pdf)
-
- - 18级新队员名单
 
 
 ***
