@@ -116,11 +116,11 @@ _<9/11 9:00AM>_  **报名截止。**
 
 - **地点:25栋三公**
 
- - [二面赛制及说明](https://hustcmdebate.github.io/theSecondInterview)
+ - 二面赛制及说明
 
- - [辩题、分组及时间地点安排](https://hustcmdebate.github.io/group)
+ - 辩题、分组及时间地点安排
 
- - [二轮面试公告 as PDF](hustcmdebate.github.io/二轮面试公告.pdf)
+ - 二轮面试公告 as PDF
 
 
 ***
